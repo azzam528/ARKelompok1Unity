@@ -166,7 +166,7 @@ string url = "http://IP_SERVER_KAMU:5000/api/get-detail/" + jenis + "/" + kompon
 
 ---
 
-## 👨‍💻 Pembuat
+## 👨‍💻 Kelompok 1
 
 Dibuat dengan ❤️ untuk keperluan edukasi.
 
