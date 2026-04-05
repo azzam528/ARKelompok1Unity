@@ -94,10 +94,6 @@ EduKitAR/
 - Perangkat Android dengan kamera
 
 ### Setup Backend
-```bash
-# Clone repository
-git clone https://github.com/yourusername/edukit-ar.git
-cd edukit-ar/backend
 
 # Install dependensi
 pip install -r requirements.txt
